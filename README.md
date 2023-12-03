@@ -1,8 +1,16 @@
-Certainly! Below is a basic template for your `README.md` file for the "todo-mysql-sequelize" project:
 
 # ToDo App with MySQL and Sequelize
 
 This is a simple ToDo application built with Node.js, Express, MySQL, and Sequelize ORM. It allows users to manage their tasks with basic CRUD operations.
+
+## Technologies Used
+
+- **Node.js**: JavaScript runtime for server-side development.
+- **Express**: Fast, unopinionated, minimalist web framework for Node.js.
+- **MySQL**: Relational database management system.
+- **Sequelize**: Promise-based Node.js ORM for MySQL, PostgreSQL, MSSQL, and SQLite.
+- **Cors**: Middleware for handling Cross-Origin Resource Sharing.
+- **Nodemon**: Utility that monitors for changes and automatically restarts the server.
 
 ## Table of Contents
 
